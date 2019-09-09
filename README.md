@@ -56,28 +56,29 @@ Primero descargamos el programa de la página oficial:
 ![GitHub Logo](https://www.wikihow.com/images_en/thumb/4/45/Install-Python-Step-2-Version-2.jpg/v4-760px-Install-Python-Step-2-Version-2.jpg)
 Cuando termine de descargar hay que proceder a instalarlo:
 ![GitHub Logo](https://www.wikihow.com/images_en/thumb/f/fb/Install-Python-Step-4-Version-2.jpg/v4-760px-Install-Python-Step-4-Version-2.jpg)
-Instalación 🔧
+
+ Instalación 🔧
 Primero: 
 ![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69874998_750459472059681_3913524228170711040_n.png?_nc_cat=109&_nc_oc=AQnAHS7ixOACxFw9VZIuFwoJKytHypC0c9lCVCRXGIho84rLNJiPg55F4K2wzo2JtM4&_nc_ht=scontent-bog1-1.xx&oh=a5c49974e0f359c923370686c6d86f6e&oe=5DC80CBF) 
-Segundo:
+
+ Segundo:
 ![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69787354_394888117896148_1245516567102357504_n.png?_nc_cat=104&_nc_oc=AQnNB9OcyBE2U6RfyGIgC6WU0eO5bNwMMoCj8mp488ziRFTWFRubYaSZIR08O6ZYRRE&_nc_ht=scontent-bog1-1.xx&oh=ea1d0516b2d571b48d4d9707c30cd5d7&oe=5E0514B0) 
+
 Luego abrimo el IDLE de python
 ![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69689175_475682319649824_1117122535582859264_n.jpg?_nc_cat=109&_nc_oc=AQncBZgHUk5xJWCUqEApXR0Jd2E_1hWuW4OYr4XiwiEsvhj0uYlr9-O6NLlb4Zkrjjs&_nc_ht=scontent-bog1-1.xx&oh=cebd69f85b23f8abab07548473591ce2&oe=5E03C862) 
+
 Buscamos el archivo y lo abrimos
 ![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/70778647_472135196670206_3245147181413302272_n.png?_nc_cat=100&_nc_oc=AQnxgrcF3EZL88MTpAI2jwDLclRoa72WBttNAznDA6vnFR88UHvB2M_Z9St3VWkMFoQ&_nc_ht=scontent-bog1-1.xx&oh=c41b02ea85e3f01c83da8b696a565ec9&oe=5DF5DC77) 
-![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/70778647_472135196670206_3245147181413302272_n.png?_nc_cat=100&_nc_oc=AQnxgrcF3EZL88MTpAI2jwDLclRoa72WBttNAznDA6vnFR88UHvB2M_Z9St3VWkMFoQ&_nc_ht=scontent-bog1-1.xx&oh=c41b02ea85e3f01c83da8b696a565ec9&oe=5DF5DC77) 
+
 y listo!.
 
 
-Da un ejemplo
-Y repite
-
-
-hasta finalizar
-Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo
+#Uso 
+Puede ejecutar el archivo de Operaciones-Con-Vectores-y-Matrices o puede desde el IDLE abrir el archivod de pruebas y modificar los valores.
 
 Ejecutando las pruebas ⚙️
-Explica como ejecutar las pruebas automatizadas para este sistema
+![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69705894_1309701689235671_7442578145238056960_n.png?_nc_cat=103&_nc_oc=AQmjygemnKTj3vN74CzpNAp25tmaUIKRoQVmWu4iaB_GCvkeoct--hoZDajrUp6OTAY&_nc_ht=scontent-bog1-1.xx&oh=8eff7ba4835f0a52d6241a1c28c727e5&oe=5E157F34) 
+
 
 Analice las pruebas end-to-end 🔩
 Explica que verifican estas pruebas y por qué
