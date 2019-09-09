@@ -47,7 +47,7 @@ Cada elemto de la primera matriz se multiplica por todos los elementos de la seg
 
 
 
-Pre-requisitos 📋
+#Pre-requisitos 📋
 ![GitHub Logo](https://www.python.org/static/img/python-logo@2x.png)
 
 Para poder usar este programa es necesario tener instalado python, si no se tiene, la descarga e instalación es como sigue:
@@ -57,7 +57,7 @@ Primero descargamos el programa de la página oficial:
 Cuando termine de descargar hay que proceder a instalarlo:
 ![GitHub Logo](https://www.wikihow.com/images_en/thumb/f/fb/Install-Python-Step-4-Version-2.jpg/v4-760px-Install-Python-Step-4-Version-2.jpg)
 
- Instalación 🔧
+ #Instalación 🔧
 Primero: 
 ![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69874998_750459472059681_3913524228170711040_n.png?_nc_cat=109&_nc_oc=AQnAHS7ixOACxFw9VZIuFwoJKytHypC0c9lCVCRXGIho84rLNJiPg55F4K2wzo2JtM4&_nc_ht=scontent-bog1-1.xx&oh=a5c49974e0f359c923370686c6d86f6e&oe=5DC80CBF) 
 
@@ -76,48 +76,17 @@ y listo!.
 #Uso 
 Puede ejecutar el archivo de Operaciones-Con-Vectores-y-Matrices o puede desde el IDLE abrir el archivod de pruebas y modificar los valores.
 
-Ejecutando las pruebas ⚙️
+#Ejecutando las pruebas ⚙️
 ![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69705894_1309701689235671_7442578145238056960_n.png?_nc_cat=103&_nc_oc=AQmjygemnKTj3vN74CzpNAp25tmaUIKRoQVmWu4iaB_GCvkeoct--hoZDajrUp6OTAY&_nc_ht=scontent-bog1-1.xx&oh=8eff7ba4835f0a52d6241a1c28c727e5&oe=5E157F34) 
+![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/70027394_952743931767936_1409035545543180288_n.png?_nc_cat=101&_nc_oc=AQmdsTpfwYAX7BCbpr85Z1gVKdeXnB-Bau2EIp1a4Sg_Vod3kWkxHiFAr02uAXVwm84&_nc_ht=scontent-bog1-1.xx&oh=4e3621811b70a508bc5461c6c5027be8&oe=5E08DC28) 
 
 
-Analice las pruebas end-to-end 🔩
-Explica que verifican estas pruebas y por qué
+#Ejemplo:
+![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69825691_1460368624101827_8265811242875092992_n.png?_nc_cat=110&_nc_oc=AQn2TPoXjDlta3h9okCD58BzFFJMj4dHRMHDy2QDq9fgiWAa7EyC8qJMclrU4NR2peg&_nc_ht=scontent-bog1-1.xx&oh=1ce56f8ed76cca031d9fdf5a53d8b843&oe=5DF918F7)
 
-Da un ejemplo
-Y las pruebas de estilo de codificación ⌨️
-Explica que verifican estas pruebas y por qué
 
-Da un ejemplo
-Deployment 📦
-Agrega notas adicionales sobre como hacer deploy
 
-Construido con 🛠️
-Menciona las herramientas que utilizaste para crear tu proyecto
+#Autor ✒️
+Andres Felipe Cubillos Hurtado
 
-Dropwizard - El framework web usado
-Maven - Manejador de dependencias
-ROME - Usado para generar RSS
-Contribuyendo 🖇️
-Por favor lee el CONTRIBUTING.md para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
-Wiki 📖
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra Wiki
-
-Versionado 📌
-Usamos SemVer para el versionado. Para todas las versiones disponibles, mira los tags en este repositorio.
-
-Autores ✒️
-Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
-
-Andrés Villanueva - Trabajo Inicial - villanuevand
-Fulanito Detal - Documentación - fulanitodetal
-También puedes mirar la lista de todos los contribuyentes quíenes han participado en este proyecto.
-
-Licencia 📄
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo LICENSE.md para detalles
-
-Expresiones de Gratitud 🎁
-Comenta a otros sobre este proyecto 📢
-Invita una cerveza 🍺 a alguien del equipo.
-Da las gracias públicamente 🤓.
-etc.
