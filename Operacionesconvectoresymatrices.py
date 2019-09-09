@@ -119,7 +119,7 @@ def hermitian(matriz):
     else:
         return "The matrix is not hermitian"
 def tensor(X,Y):
-    result = [[0 for j in range(4)] for i in range(4)]
+    result = [[0 for j in range((len(X[0])*len(Y[0])))] for i in range((len(X[0])*len(Y[0])))]
     todo=[]
     for w in X:
        for e in w:
