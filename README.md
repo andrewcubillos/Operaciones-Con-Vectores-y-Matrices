@@ -48,7 +48,9 @@ Cada elemto de la primera matriz se multiplica por todos los elementos de la seg
 
 
 Pre-requisitos 📋
-Que cosas necesitas para instalar el software y como instalarlas
+![GitHub Logo](https://www.python.org/static/img/python-logo@2x.png)
+
+Para poder usar este programa es necesario tener instalado python, si no se tiene, la descarga e instalación es como sigue:
 
 Da un ejemplo
 Instalación 🔧
@@ -58,7 +60,7 @@ Dí cómo será ese paso
 
 Da un ejemplo
 Y repite
-![GitHub Logo](https://concepto.de/wp-content/uploads/2015/03/paisaje-e1549600034372.jpg)
+
 
 hasta finalizar
 Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo
