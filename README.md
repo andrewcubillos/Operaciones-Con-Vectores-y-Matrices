@@ -57,10 +57,11 @@ Primero descargamos el programa de la página oficial:
 Cuando termine de descargar hay que proceder a instalarlo:
 ![GitHub Logo](https://www.wikihow.com/images_en/thumb/f/fb/Install-Python-Step-4-Version-2.jpg/v4-760px-Install-Python-Step-4-Version-2.jpg)
 Instalación 🔧
-Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose
-![myimage-alt-tag](url-to-image) 
-Dí cómo será ese paso
-![GitHub Logo](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69655199_2413199338968782_3520868993596391424_n.png?_nc_cat=107&_nc_oc=AQk8c5OrvUWPMBRCvKcuCFEtOzvy-QcqJKspgnnbhFAuwp1-LYw8z13s5neuNTCk96w&_nc_ht=scontent-bog1-1.xx&oh=2ffcc2b93880570369f0a9a3873e1af8&oe=5E07A340)
+Primero: 
+![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69874998_750459472059681_3913524228170711040_n.png?_nc_cat=109&_nc_oc=AQnAHS7ixOACxFw9VZIuFwoJKytHypC0c9lCVCRXGIho84rLNJiPg55F4K2wzo2JtM4&_nc_ht=scontent-bog1-1.xx&oh=a5c49974e0f359c923370686c6d86f6e&oe=5DC80CBF) 
+Segundo:
+![myimage-alt-tag](http://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69787354_394888117896148_1245516567102357504_n.png?_nc_cat=104&_nc_oc=AQnNB9OcyBE2U6RfyGIgC6WU0eO5bNwMMoCj8mp488ziRFTWFRubYaSZIR08O6ZYRRE&_nc_ht=scontent-bog1-1.xx&oh=ea1d0516b2d571b48d4d9707c30cd5d7&oe=5E0514B0) 
+
 Da un ejemplo
 Y repite
 
