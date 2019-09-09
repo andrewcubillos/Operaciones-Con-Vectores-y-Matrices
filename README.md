@@ -1,5 +1,37 @@
 **Operaciones Con Vectores y Matrices**
-Acá va un párrafo que describa lo que es el proyecto
+
+**Adición de vectores complejos.**
+Esta funcion suma dos vectores complejos, sumando elemento de uno y elemento del otro asi dando un vector complejo por respuesta
+
+**Inversa de vectores complejos.**
+Cada elemento del vector tanto su parte real como imaginaria se convierten
+
+Multiplicación escalar de vectores complejos.
+
+Adición de matrices complejos.
+
+Inversa de matrices complejos.
+
+Multiplicación escalar de matrices complejas.
+
+Matriz transpuesta
+
+Matriz conjugada
+
+Matriz adjunta
+
+Función para calcular la "acción" de una matriz sobre un vector.
+
+Norma de matrices
+
+Distancia entrematrices
+
+Revisar si es unitaria
+
+Revisar si es Hermitian
+
+Producto tensor
+
 
 
 Pre-requisitos 📋
