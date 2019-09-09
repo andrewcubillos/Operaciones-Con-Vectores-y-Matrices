@@ -51,8 +51,11 @@ Pre-requisitos 📋
 ![GitHub Logo](https://www.python.org/static/img/python-logo@2x.png)
 
 Para poder usar este programa es necesario tener instalado python, si no se tiene, la descarga e instalación es como sigue:
-
-Da un ejemplo
+Primero descargamos el programa de la página oficial:
+![GitHub Logo](https://www.wikihow.com/images_en/thumb/1/14/Install-Python-Step-1-Version-2.jpg/v4-760px-Install-Python-Step-1-Version-2.jpg)
+![GitHub Logo](https://www.wikihow.com/images_en/thumb/4/45/Install-Python-Step-2-Version-2.jpg/v4-760px-Install-Python-Step-2-Version-2.jpg)
+Cuando termine de descargar hay que proceder a instalarlo:
+![GitHub Logo](https://www.wikihow.com/images_en/thumb/f/fb/Install-Python-Step-4-Version-2.jpg/v4-760px-Install-Python-Step-4-Version-2.jpg)
 Instalación 🔧
 Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose
 ![myimage-alt-tag](url-to-image) 
