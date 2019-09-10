@@ -97,7 +97,7 @@ y listo!.
 
 
 # Uso 
-Para poder usar esta libreria necesario dos cosas;tener instalado https://github.com/andrewcubillos/Operaciones-Con-Vectores-y-Matrices  y tener instalado https://github.com/andrewcubillos/Numeros-complejos
+Para poder usar esta libreria es necesario:
 Si lo prefiere puede usar el codigo depruebas y modificar los valores a su necesidad, o puede importar las librerias a su  archivo creado o crear uno nuevo.
 
 ![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69731069_814054645657778_4513257720329011200_n.png?_nc_cat=103&_nc_oc=AQm3LN483g_lsaABtXqfnhD1NyLM3oly8n_MKeDz1G7YmHJZe43hgae3tKWUB5NXvzc&_nc_ht=scontent-bog1-1.xx&oh=ccc3c76d687ab72ff48bd89118ecb75f&oe=5E1309B7) 
@@ -110,23 +110,40 @@ Si lo prefiere puede usar el codigo depruebas y modificar los valores a su neces
 ![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/70027394_952743931767936_1409035545543180288_n.png?_nc_cat=101&_nc_oc=AQmdsTpfwYAX7BCbpr85Z1gVKdeXnB-Bau2EIp1a4Sg_Vod3kWkxHiFAr02uAXVwm84&_nc_ht=scontent-bog1-1.xx&oh=4e3621811b70a508bc5461c6c5027be8&oe=5E08DC28) 
 
 
-# Ejemplo:
+# Ejemplo1:
 
-def unitaria(Y):
+    def unitaria(Y):
     X=adjunta(Y)
     result = [[0 for j in range(len(X))] for i in range(len(Y[0]))]
     ssum=(0,0)
+     for i in range(len(X)):
+        for j in range(len(Y[0])):
+            for k in range(len(Y)):
+                result[i][j] =suma(ssum,producto(X[i][k],Y[k][j]))
+                ssum=result[i][j]
+            ssum =(0,0)           
+     midentidad=[[(1,0) if j == i else (0,0) for j in range(len(result))] for i in range(len(result[0]))]
+     if result==midentidad:
+         return "The matrix is a unitary matrix"
+     else:
+         return "The matrix is not a unitary matrix"
+# Ejemplo2:         
+    def norma(Y):
+    X=trans(Y)
+    result = [[0 for j in range(len(X))] for i in range(len(Y[0]))]
+    ssum=(0,0)
     for i in range(len(X)):
+        
        for j in range(len(Y[0])):
+
            for k in range(len(Y)):
                result[i][j] =suma(ssum,producto(X[i][k],Y[k][j]))
                ssum=result[i][j]
-           ssum =(0,0)           
-    midentidad=[[(1,0) if j == i else (0,0) for j in range(len(result))] for i in range(len(result[0]))]
-    if result==midentidad:
-        return "The matrix is a unitary matrix"
-    else:
-        return "The matrix is not a unitary matrix"
+           ssum =(0,0)
+    traza=(0,0)
+    for w in range(len(result)):
+        traza=suma(traza,result[w][w])
+    return ((((traza[0])**2)+((traza[1])**2))**(1/2))
 
 
 
