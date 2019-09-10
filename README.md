@@ -85,10 +85,12 @@ Segundo:
 ![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69787354_394888117896148_1245516567102357504_n.png?_nc_cat=104&_nc_oc=AQnNB9OcyBE2U6RfyGIgC6WU0eO5bNwMMoCj8mp488ziRFTWFRubYaSZIR08O6ZYRRE&_nc_ht=scontent-bog1-1.xx&oh=ea1d0516b2d571b48d4d9707c30cd5d7&oe=5E0514B0) 
 
 
-Luego abrimo el IDLE de python
+Luego abrimos el IDLE de python
 ![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69689175_475682319649824_1117122535582859264_n.jpg?_nc_cat=109&_nc_oc=AQncBZgHUk5xJWCUqEApXR0Jd2E_1hWuW4OYr4XiwiEsvhj0uYlr9-O6NLlb4Zkrjjs&_nc_ht=scontent-bog1-1.xx&oh=cebd69f85b23f8abab07548473591ce2&oe=5E03C862) 
 
+
 Buscamos el archivo y lo abrimos
+
 ![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/70778647_472135196670206_3245147181413302272_n.png?_nc_cat=100&_nc_oc=AQnxgrcF3EZL88MTpAI2jwDLclRoa72WBttNAznDA6vnFR88UHvB2M_Z9St3VWkMFoQ&_nc_ht=scontent-bog1-1.xx&oh=c41b02ea85e3f01c83da8b696a565ec9&oe=5DF5DC77) 
 
 y listo!.
