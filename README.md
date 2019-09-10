@@ -65,7 +65,7 @@ Cada elemto de la primera matriz se multiplica por todos los elementos de la seg
 # Pre-requisitos 📋
 ![GitHub Logo](https://www.python.org/static/img/python-logo@2x.png)
 
-Para poder usar este programa es necesario tener instalado python, si no se tiene, la descarga e instalación es como sigue:
+Para poder usar esta libreria es necesario tener instalado python, si no se tiene, la descarga e instalación es como sigue:
 Primero descargamos el programa de la página oficial:
 
 ![GitHub Logo](https://www.wikihow.com/images_en/thumb/1/14/Install-Python-Step-1-Version-2.jpg/v4-760px-Install-Python-Step-1-Version-2.jpg)
@@ -95,7 +95,11 @@ y listo!.
 
 
 # Uso 
-Puede ejecutar el archivo de Operaciones-Con-Vectores-y-Matrices o puede desde el IDLE abrir el archivod de pruebas y modificar los valores.
+Para poder usar esta libreria necesario dos cosas;tener instalado https://github.com/andrewcubillos/Operaciones-Con-Vectores-y-Matrices  y tener instalado https://github.com/andrewcubillos/Numeros-complejos
+Si lo prefiere puede usar el codigo depruebas y modificar los valores a su necesidad o puede importar las librerias a su programa:
+
+![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69731069_814054645657778_4513257720329011200_n.png?_nc_cat=103&_nc_oc=AQm3LN483g_lsaABtXqfnhD1NyLM3oly8n_MKeDz1G7YmHJZe43hgae3tKWUB5NXvzc&_nc_ht=scontent-bog1-1.xx&oh=ccc3c76d687ab72ff48bd89118ecb75f&oe=5E1309B7) 
+
 
 # Ejecutando las pruebas ⚙️
 ![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69705894_1309701689235671_7442578145238056960_n.png?_nc_cat=103&_nc_oc=AQmjygemnKTj3vN74CzpNAp25tmaUIKRoQVmWu4iaB_GCvkeoct--hoZDajrUp6OTAY&_nc_ht=scontent-bog1-1.xx&oh=8eff7ba4835f0a52d6241a1c28c727e5&oe=5E157F34) 
