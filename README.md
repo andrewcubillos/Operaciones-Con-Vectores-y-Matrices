@@ -111,20 +111,18 @@ Si lo prefiere puede usar el codigo depruebas y modificar los valores a su neces
 
 
 # Ejemplo:
+
 def unitaria(Y):
     X=adjunta(Y)
     result = [[0 for j in range(len(X))] for i in range(len(Y[0]))]
     ssum=(0,0)
     for i in range(len(X)):
-        
        for j in range(len(Y[0])):
-
            for k in range(len(Y)):
                result[i][j] =suma(ssum,producto(X[i][k],Y[k][j]))
                ssum=result[i][j]
            ssum =(0,0)           
     midentidad=[[(1,0) if j == i else (0,0) for j in range(len(result))] for i in range(len(result[0]))]
-
     if result==midentidad:
         return "The matrix is a unitary matrix"
     else:
