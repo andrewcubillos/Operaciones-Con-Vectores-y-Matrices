@@ -1,48 +1,63 @@
 # Operaciones Con Vectores y Matrices
 
-**Adición de vectores complejos.**
+**Adición de vectores complejos:**
+
 Esta funcion suma dos vectores complejos, sumando elemento de uno y elemento del otro asi dando un vector complejo por respuesta
 
-**Inversa de vectores complejos.**
+**Inversa de vectores complejos:**
+
 Cada elemento del vector tanto su parte real como imaginaria se multiplican por -1.
 
-**Multiplicación escalar de vectores complejos.**
+**Multiplicación escalar de vectores complejos:**
+
 Cada elemento del vector se multipica por un escalar
 
-**Adición de matrices complejos**
+**Adición de matrices complejos:**
+
 Cada elemento de la primera matriz se suma con otro elemento de la segunda matriz, para esto las dos matrices deben tener el mismo tamaño.
 
-**Inversa de matrices complejos.**
+**Inversa de matrices complejos:**
+
 Cada elemento de la matriz tanto su parte real como imaginaria se multiplican por -1.
 
-**Multiplicación escalar de matrices complejas**
+**Multiplicación escalar de matrices complejas:**
+
 Cada elemento de la matriz se multipica por un escalar dando por respuesta una matriz del tamaño de la original
 
 
-**Matriz transpuesta**
+**Matriz transpuesta:**
+
 Cada fila de la matriz se convierte en una columna, la diagonal queda igual.
 
-**Matriz conjugada**
+**Matriz conjugada:**
+
 Todos los elemntos de la matriz cambiaran de signo en su parte imaginaria.
 
-**Matriz adjunta**
+**Matriz adjunta:**
+
 La matriz sera igual a su transpuesta conjugada.
 
-**Función para calcular la "acción" de una matriz sobre un vector**
+**Función para calcular la "acción" de una matriz sobre un vector:**
+
 Esta funcion calcula la influencia que tiene una matriz sobre un vector, al multiplicarlos, se deja ver si su tamaño se reduce o se aumenta.
 
-**Norma de matrices**
+**Norma de matrices:**
+
 Calcula el producto interno dos matrices, la primera transpuesta y la segunda normal, luego hace la traza de la matriz resultante, es decir suma los elementos de la diagonal y al final saca la raiz cuadrada de esa traza.
-**Distancia entrematrices**
+**Distancia entrematrices:**
+
 Calcula el producto interno la resta de dos matrices, la primer resta transpuesta y la segunda(que es la misma) normal, luego hace la traza de la matriz resultante, es decir suma los elementos de la diagonal y al final saca la raiz cuadrada de esa traza.
 
 
-**Revisar si es unitaria**
+**Revisar si es unitaria:**
+
 Multiplica la adjunta de la matriz por la matriz y si este producto es igual a la matriz identidad, entonces la matriz es unitaria.
 
-**Revisar si es Hermitian**
+**Revisar si es Hermitian:**
+
 Si la matriz es igual que su adjunta entonces es Hermitian.
-**Producto tensor**
+**Producto tensor:**
+
 Cada elemto de la primera matriz se multiplica por todos los elementos de la segunda, dando por resultado una matriz de longitud AxA siendo A igual a la longitud de la primera fila de la primera matriz por la longitud de la primera fila de la segunda matriz.
 
 
