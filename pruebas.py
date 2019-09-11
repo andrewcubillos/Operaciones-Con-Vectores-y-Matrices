@@ -6,10 +6,13 @@ class PruebasFunciones(unittest.TestCase):
     
     def test1(self):
         self.assertEqual([(22, -2), (7, -4),(10.2,-8.1),(0,-7)], Operacionesconvectoresymatrices.sumav([(6, -4), (7, 3),(4.2,-8.1),(0,-3)],[(16, 2), (0, -7),(6,0),(0,-4)]))
+    
     def test2(self):
         self.assertEqual([(-6, 4), (-7, -3),(-4.2,8.1),(0,3)],Operacionesconvectoresymatrices.inverso([(6, -4), (7, 3),(4.2,-8.1),(0,-3)]))
+    
     def test3(self): 
         self.assertEqual([(12, 21), (0, 0),(13,13),(12,8)],Operacionesconvectoresymatrices.escalarv((3,2),[(6, 3), (0, 0),(5,1),(4,0)]))
+    
     def test4(self):
         self.assertEqual([[(8, 2),(2,-1)],[(1,0),(8,7)]],Operacionesconvectoresymatrices.sumam([[(3,2),(0,0)],
                                 [(1,0),(4,2)]],
@@ -36,6 +39,7 @@ class PruebasFunciones(unittest.TestCase):
                                   [(3,-4),(4,-9)]]))
     def test10(self):
         self.assertEqual(4,Operacionesconvectoresymatrices.norma([[(0, 1), (0, 1)],[(0, 1), (0, 1)]]))
+    
     def test11(self):
         
         self.assertEqual([[(5, 0)], [(-6, 0)]],Operacionesconvectoresymatrices.accion([[(-2,0),(7,0)],
